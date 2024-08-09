@@ -2,12 +2,17 @@
 ## Introdução
 Este documento descreve o processo de montagem e programação para a construção de um protótipo baseado em um esquema elétrico fornecido (Figura 1). O protótipo inclui um sistema de mistura controlado por botões, sensores e atuadores, com a finalidade de realizar e gerenciar ciclos de mistura com feedback em um display LCD.
 
-**Figura 1** - Vista esquemática do circuito
+**Figura 1** - Vista esquemática do circuito.
 
 ![Figura 1 - Vista esquemática do circuito](vista_esquematica.png)
 
 **Fonte**: Autoria própria.
 
+**Figura 2** - Simulação do circuito na plataforma Tinkercad.
+
+![Figura 1 - Vista esquemática do circuito](circuito.png)
+
+**Fonte**: Autoria própria.
 
 ## Objetivo
 Desenvolver um programa em linguagem C para microcontroladores que controla um ciclo de mistura conforme as especificações fornecidas. O sistema deve interagir com botões, sensores e atuadores, além de fornecer informações ao usuário através de um display LCD.
