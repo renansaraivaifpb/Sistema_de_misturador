@@ -1,8 +1,12 @@
 # Documentação do Protótipo de Montagem e Programação
 ## Introdução
-Este documento descreve o processo de montagem e programação para a construção de um protótipo baseado em um esquema elétrico fornecido. O protótipo inclui um sistema de mistura controlado por botões, sensores e atuadores, com a finalidade de realizar e gerenciar ciclos de mistura com feedback em um display LCD.
+Este documento descreve o processo de montagem e programação para a construção de um protótipo baseado em um esquema elétrico fornecido (Figura 1). O protótipo inclui um sistema de mistura controlado por botões, sensores e atuadores, com a finalidade de realizar e gerenciar ciclos de mistura com feedback em um display LCD.
+
+**Figura 1** - Vista esquemática do circuito
 
 ![Figura 1 - Vista esquemática do circuito](vista_esquematica.png)
+
+**Fonte**: Autoria própria.
 
 
 ## Objetivo
